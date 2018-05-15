@@ -1,2 +1,7 @@
 # hello-world
-Hi There
+Hi There Git
+
+Ready to rock
+
+# This is cool
+- Testing
